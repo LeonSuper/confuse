@@ -1,8 +1,4 @@
 # confuse(iOS马甲包，上架神器)
-
-<a name="X50Qx"></a>
-#                             ![image.png](https://cdn.nlark.com/yuque/0/2020/png/213807/1593768128247-016fe60b-8853-48fb-8b76-f9f702b83db5.png#align=left&display=inline&height=177&margin=%5Bobject%20Object%5D&name=image.png&originHeight=512&originWidth=512&size=119707&status=done&style=none&width=177)
-<a name="4OMtJ"></a>
 # BUG
 
 1. 经用户反馈，发现《修改方法名》存在bug，正在修复中...
